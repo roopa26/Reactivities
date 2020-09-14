@@ -6,7 +6,7 @@ C:\Users\ROOPA\source\repos\Reactivities\Persistence\bin\Debug\netstandard2.1\Do
 C:\Users\ROOPA\source\repos\Reactivities\Persistence\obj\Debug\netstandard2.1\Persistence.csprojAssemblyReference.cache
 C:\Users\ROOPA\source\repos\Reactivities\Persistence\obj\Debug\netstandard2.1\Persistence.AssemblyInfoInputs.cache
 C:\Users\ROOPA\source\repos\Reactivities\Persistence\obj\Debug\netstandard2.1\Persistence.AssemblyInfo.cs
+C:\Users\ROOPA\source\repos\Reactivities\Persistence\obj\Debug\netstandard2.1\Persistence.csproj.CoreCompileInputs.cache
 C:\Users\ROOPA\source\repos\Reactivities\Persistence\obj\Debug\netstandard2.1\Persistence.csproj.CopyComplete
 C:\Users\ROOPA\source\repos\Reactivities\Persistence\obj\Debug\netstandard2.1\Persistence.dll
 C:\Users\ROOPA\source\repos\Reactivities\Persistence\obj\Debug\netstandard2.1\Persistence.pdb
-C:\Users\ROOPA\source\repos\Reactivities\Persistence\obj\Debug\netstandard2.1\Persistence.csproj.CoreCompileInputs.cache
